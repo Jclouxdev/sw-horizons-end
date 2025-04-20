@@ -6,7 +6,7 @@ description: Dragon teams
 
 # Dragon Speed Team Guide
 
-<img src="/img/donjons/dragon.jpg" alt="Dragon" width="100%" />
+![Dragon B12 Splash Art](/img/donjons/dragon.jpg)
 
 ## Liam speed team
 
