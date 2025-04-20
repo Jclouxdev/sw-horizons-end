@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmon_guide_sw=self.webpackChunkmon_guide_sw||[]).push([[903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/sw-horizons-end/blog","blogTitle":"Blog","authorsListPath":"/sw-horizons-end/blog/authors"}')}}]);
