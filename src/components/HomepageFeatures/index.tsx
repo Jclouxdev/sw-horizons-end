@@ -10,36 +10,36 @@ type FeatureItem = {
 };
 
 const FeatureList: FeatureItem[] = [
-  {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
-    ),
-  },
-  {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
-  },
-  {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
-    ),
-  },
+    {
+        title: 'PVE Content',
+        Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+        description: (
+            <>
+                Comprehensive dungeon guides for Giants, Dragons, Necropolis, and all PVE content.
+                Optimized team compositions for efficient farming and steady progression.
+            </>
+        ),
+    },
+    {
+        title: 'PVP Content',
+        Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+        description: (
+            <>
+                Arena and Guild War strategies to climb the ranks.
+                Counter teams for common defenses and tips for building effective offenses.
+            </>
+        ),
+    },
+    {
+        title: 'Patch Notes',
+        Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+        description: (
+            <>
+                Stay up-to-date with the latest game changes.
+                Analysis of balance patches and their impact on the meta.
+            </>
+        ),
+    },
 ];
 
 function Feature({title, Svg, description}: FeatureItem) {
