@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmon_guide_sw=self.webpackChunkmon_guide_sw||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Patch 8.6.9 - Key Highlights","permalink":"/sw-horizons-end/blog/2025/04/12/patch-8-6-9","unlisted":false,"date":"2025-04-12T00:00:00.000Z"}]}')}}]);

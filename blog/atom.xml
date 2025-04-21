@@ -2,33 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Jclouxdev.github.io/sw-horizons-end/blog</id>
     <title>Summoners War Guides Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2025-04-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Jclouxdev.github.io/sw-horizons-end/blog"/>
     <subtitle>Summoners War Guides Blog</subtitle>
     <icon>https://Jclouxdev.github.io/sw-horizons-end/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[welcome]]></title>
-        <id>https://Jclouxdev.github.io/sw-horizons-end/blog/2021/08/26/welcome</id>
-        <link href="https://Jclouxdev.github.io/sw-horizons-end/blog/2021/08/26/welcome"/>
-        <updated>2021-08-26T00:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mdx-blog-post]]></title>
-        <id>https://Jclouxdev.github.io/sw-horizons-end/blog/2021/08/01/mdx-blog-post</id>
-        <link href="https://Jclouxdev.github.io/sw-horizons-end/blog/2021/08/01/mdx-blog-post"/>
-        <updated>2021-08-01T00:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[long-blog-post]]></title>
-        <id>https://Jclouxdev.github.io/sw-horizons-end/blog/2019/05/29/long-blog-post</id>
-        <link href="https://Jclouxdev.github.io/sw-horizons-end/blog/2019/05/29/long-blog-post"/>
-        <updated>2019-05-29T00:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[first-blog-post]]></title>
-        <id>https://Jclouxdev.github.io/sw-horizons-end/blog/2019/05/28/first-blog-post</id>
-        <link href="https://Jclouxdev.github.io/sw-horizons-end/blog/2019/05/28/first-blog-post"/>
-        <updated>2019-05-28T00:00:00.000Z</updated>
+        <title type="html"><![CDATA[Patch 8.6.9 - Key Highlights]]></title>
+        <id>https://Jclouxdev.github.io/sw-horizons-end/blog/2025/04/12/patch-8-6-9</id>
+        <link href="https://Jclouxdev.github.io/sw-horizons-end/blog/2025/04/12/patch-8-6-9"/>
+        <updated>2025-04-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[📅 Release Date]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-release-date">📅 Release Date<a href="https://jclouxdev.github.io/sw-horizons-end/blog/2025/04/12/patch-8-6-9#-release-date" class="hash-link" aria-label="Direct link to 📅 Release Date" title="Direct link to 📅 Release Date">​</a></h2>
+<p>April 12, 2025</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-patch-v869-summary">🔔 Patch v.8.6.9 Summary<a href="https://jclouxdev.github.io/sw-horizons-end/blog/2025/04/12/patch-8-6-9#-patch-v869-summary" class="hash-link" aria-label="Direct link to 🔔 Patch v.8.6.9 Summary" title="Direct link to 🔔 Patch v.8.6.9 Summary">​</a></h2>
+<p>The v.8.6.9 update brings <strong>major changes</strong> to Summoners War, especially around the <strong>Arena system</strong> and the <strong>11th Anniversary celebrations</strong>!</p>
+<p><img decoding="async" loading="lazy" alt="!Hero" src="https://jclouxdev.github.io/sw-horizons-end/assets/images/Hero-3e3d52a0ed5a05fc8905ab592c6a8b5f.png" width="798" height="446" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-key-highlights">✨ Key Highlights:<a href="https://jclouxdev.github.io/sw-horizons-end/blog/2025/04/12/patch-8-6-9#-key-highlights" class="hash-link" aria-label="Direct link to ✨ Key Highlights:" title="Direct link to ✨ Key Highlights:">​</a></h3>
+<ul>
+<li><strong>Arena overhaul</strong> with a new <strong>league system</strong> (biweekly rotation)</li>
+<li>Introduction of a <strong>Beginner League</strong> for new summoners</li>
+<li><strong>New Monster:</strong> Scarab Guardian + Special Summoning event</li>
+<li>Visual updates for 13 monsters and Arena-related UI improvements</li>
+<li><strong>11th Anniversary Events</strong> with exclusive rewards:<!-- -->
+<ul>
+<li>Cowgirl Transmog</li>
+<li>Special Summonhenge skin</li>
+<li>Customizable profile background</li>
+<li>Surprise Shop &amp; limited-time offers</li>
+</ul>
+</li>
+<li>System and balance improvements, bug fixes, and quality-of-life updates</li>
+<li>New missions and crafting-related challenges</li>
+</ul>
+<hr>
+<p>👉 <strong>Full patch notes available on the official website:</strong><br>
+<a href="https://www.withhive.com/notice/313/79816" target="_blank" rel="noopener noreferrer">Com2uS Official Notice – v.8.6.9 Update</a></p>
+<hr>
+<p><strong>Happy 11th Anniversary and enjoy your summons, Summoners! 🎉</strong></p>]]></content>
+        <author>
+            <name>Hudabu</name>
+        </author>
+        <category label="patch" term="patch"/>
+        <category label="update" term="update"/>
+        <category label="arena" term="arena"/>
+        <category label="anniversary" term="anniversary"/>
     </entry>
 </feed>

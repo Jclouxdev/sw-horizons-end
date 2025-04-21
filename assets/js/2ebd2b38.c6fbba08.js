@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmon_guide_sw=self.webpackChunkmon_guide_sw||[]).push([[3051],{1531:u=>{u.exports=JSON.parse('{"authors":[{"name":"Hudabu","title":"HE_Hudabu","page":{"permalink":"/sw-horizons-end/blog/authors/hudabu"},"key":"Hudabu","count":1}]}')}}]);
