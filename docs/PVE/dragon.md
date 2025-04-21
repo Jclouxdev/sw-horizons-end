@@ -91,3 +91,7 @@ Kyle need to play 2 times before Liam (Play, Kona give him turn, then replay.)
 This might be caused by several factors, but you can try the following:
 
 Start a run, set the game speed to x1 for the final boss, and watch the damage from Liam’s third spell. If the first hit doesn’t ignore DEF, Liam is lacking damage; if it does, Kyle is probably the one who’s short on damage.
+
+---
+
+<p style={{color: 'grey'}}>Author of this guide : Hudabu</p>
